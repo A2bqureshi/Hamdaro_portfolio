@@ -55,7 +55,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 1.4, duration: 1.2, ease: 'easeOut' }}
-          className="text-white text-6xl md:text-8xl lg:text-9xl font-light tracking-[0.08em] uppercase mb-4"
+          className="text-white text-4xl md:text-6xl lg:text-7xl font-light tracking-[0.08em] uppercase mb-4"
           style={{ fontFamily: 'Georgia, Times New Roman, serif' }}
         >
           Midsommar
