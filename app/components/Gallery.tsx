@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
-const images = Array.from({ length: 21 }, (_, i) => ({
+const images = Array.from({ length: 31 }, (_, i) => ({
   src: `/images/gallery/gallery-${i + 1}.jpg`,
   id: i + 1,
 }));
